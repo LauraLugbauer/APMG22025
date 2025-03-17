@@ -4,3 +4,11 @@ body{
     font-style: italic;
     font-size: medium;
 }
+
+p{
+    text-align: center;
+    background-color: beige;
+    color: darkblue;
+    padding: 10px;
+    margin: 10px;
+}
